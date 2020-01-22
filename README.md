@@ -1,10 +1,10 @@
-# # Pre-work - *Name of App Here*
+# # Pre-work - *TipCalc*
 
-**Name of your app** is a tip calculator application for iOS.
+**TipCalc** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Eamon Moradi-Bidhendi**
 
-Time spent: **X** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## User Stories
 
@@ -37,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Eamon Moradi-Bidhendi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
