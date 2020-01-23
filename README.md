@@ -42,7 +42,7 @@ I lost my original Code that I statred working on on Thursday.
 
 I am no familary with Mac OS so I progressed slowly.
 
-I had some LICECap so I used REcordit.
+I had some issues useing LICECap so I used REcordit.
 ## License
 
     Copyright [2020] [Eamon Moradi-Bidhendi]
